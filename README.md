@@ -24,15 +24,3 @@ This is a simple **ATM Interface** implemented in Java. The program simulates an
      java ATM
 
 
-## Code Structure
-
-
---ATM.java - Contains the main logic of the ATM.
---UserAccount.java - Manages user authentication and balance operations.
---README.md - This file, explaining the project.
-
-##Future Improvements
-Multiple user accounts support.
-Transaction history tracking.
-GUI-based ATM interface.
-
